@@ -1,5 +1,5 @@
 <?php
-
+//This is temporary comment
 
  get_header(); $current_options=get_option('spa_theme_options');
 get_template_part('index', 'slider') ;
